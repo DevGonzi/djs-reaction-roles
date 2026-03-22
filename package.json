@@ -1,6 +1,6 @@
 {
   "name": "@devgonzi/djs-reaction-roles",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Reaction role and button role bindings for discord.js v14 bots.",
   "keywords": [
     "discord",
