@@ -1,5 +1,7 @@
 # @devgonzi/reaction-roles
 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/devgonzi)
+
 Modern Discord.js v14 reaction role and button role system with flexible binding modes and full i18n support.
 
 **Features:**
@@ -408,4 +410,4 @@ Key changes:
 
 ## License
 
-MIT © [Gonzi](https://github.com/devgonzi)
+MIT. do whatever. – [gonzi](https://github.com/DevGonzi)
